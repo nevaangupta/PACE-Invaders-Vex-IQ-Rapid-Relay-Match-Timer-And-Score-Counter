@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(160deg, black 0%, black 100%);
+}
+#dGoals{
+    display:inline;
+    float:left;
+}
+#dPasses{
+    display:inline;
+    float:right;
+}
+#pGoals{
+    display:inline;
+    float:left;
+}
+#mGoals{
+    display:inline;
+    float:left;
+}
+#mPasses{
+    display:inline;
+    float:right;
+}
+#pPasses{
+    display:inline;
+    float:right;
+}
